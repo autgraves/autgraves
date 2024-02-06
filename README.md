@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=F78600&multiline=true&random=false&width=435&height=75&lines=Hey!+I'm+Autumn.+;A+frontend+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F78600&random=false&width=435&lines=Autumn+Graves;Frontend+Developer)](https://git.io/typing-svg)
+
+I like problem solving, clean code, and good design. I build web applications and bring user interfaces to life. 
+
+I've sharpened and leveraged these skills for over two years to support open source projects and freelance clients. 
+
+Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=autgraves&theme=dark)](https://git.io/streak-stats)
 
