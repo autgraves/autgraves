@@ -2,7 +2,7 @@
 
 I like problem solving, clean code, and good design. I build web applications and bring user interfaces to life. 
 
-I've sharpened and leveraged these skills for over two years to support open source projects and freelance clients. 
+I've sharpened and leveraged these skills for over two years and look forward to supporting open source projects and freelance clients. 
 
 Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
 
