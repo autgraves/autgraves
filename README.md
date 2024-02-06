@@ -4,8 +4,6 @@ I like problem solving, clean code, and good design. I build web applications an
 
 I've sharpened and leveraged these skills for over two years and look forward to supporting open source projects and freelance clients. 
 
-Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
-
 
 <details>
   <summary>Stats</summary>
@@ -19,3 +17,5 @@ Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves).
 <!-- [![Holopin Board](https://holopin.me/autgraves)](https://holopin.io/@autgraves) -->
 
 </details>
+
+Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
