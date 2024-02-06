@@ -18,4 +18,4 @@ I've sharpened and leveraged these skills for over two years and look forward to
 
 </details>
 
-Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
+[Find me elsewhere!](https://autgraves.netlify.app/)
