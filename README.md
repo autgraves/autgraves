@@ -6,6 +6,10 @@ I've sharpened and leveraged these skills for over two years to support open sou
 
 Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves). 
 
+
+<details>
+  <summary>Stats</summary>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=autgraves&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=autgraves&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,3 +17,5 @@ Find me on [DEV](https://dev.to/aut) and [X](https://x.com/autgraves).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autgraves&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Holopin Board](https://holopin.me/autgraves)](https://holopin.io/@autgraves) -->
+
+</details>
